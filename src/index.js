@@ -2,7 +2,6 @@
 const sections = ["introduction", "array", "set"];
 const paragraphs = [];
 var template = document.getElementById("template");
-debugger
 const resources = [
   {
     site: "https://javascript.info/array-methods",
